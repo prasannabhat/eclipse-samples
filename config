@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+	autocrlf = false
+[remote "origin"]
+	url = https://github.com/prasannabhat/eclipse-samples.git
+	push = refs/heads/*:refs/heads/*
+	fetch = refs/heads/*:refs/remotes/origin/*
+	fetch = refs/tags/*:refs/tags/*
+[branch "master"]
+        remote = origin
+        merge = refs/heads/master
+		
