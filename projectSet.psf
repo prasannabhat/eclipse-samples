@@ -2,8 +2,6 @@
 <psf version="2.0">
 <provider id="org.eclipse.egit.core.GitProvider">
 <project reference="1.0,https://github.com/prasannabhat/eclipse-samples.git,master,EclipseJfaceSamples"/>
+<project reference="1.0,https://github.com/prasannabhat/eclipse-samples.git,master,LuceneDemo"/>
 </provider>
-<workingSets editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" id="1385697523740_4" label="UIExamples" name="UIExamples">
-<item elementID="=EclipseJfaceSamples" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
-</workingSets>
 </psf>
